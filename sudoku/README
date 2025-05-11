@@ -1,1 +1,15 @@
+# Sudoku em Java
 
+Este diretório contém uma implementação do Sudoku desenvolvida em Java, estruturada de forma simples e interativa para facilitar o jogo no console.
+
+## **Características**
+- Tabuleiro dinâmico → Atualiza-se conforme as jogadas do usuário
+- Validação de movimentos → Impede alterações em posições fixas
+- Verificação automática de erros → Identifica se há inconsistências no jogo
+- Sistema de status → Indica se o jogo está "Não iniciado", "Incompleto" ou "Completo"
+
+## **Como funciona?**
+- O jogo começa com um tabuleiro gerado automaticamente
+- O usuário pode inserir números em posições disponíveis
+- O sistema verifica se o jogo contém erros ou se foi concluído corretamente
+- O tabuleiro é exibido dinamicamente com um modelo pré-formatado, refletindo cada jogada
