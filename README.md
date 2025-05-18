@@ -11,7 +11,7 @@ O repositório começa com 4 versões do Jogo da Velha, cada uma com diferentes 
 - **Usuário x CPU (3 níveis de dificuldade)** → A CPU se adapta e tenta bloquear/buscar a vitória
 - **Usuário x CPU (hardcore)** → O nível 3 da CPU nunca perde (pelo menos eu nunca consegui vencer :))
 ----
-## Projeto: Sudoku em Java
+## Sudoku 
 Este projeto é uma implementação do jogo Sudoku em Java, utilizando uma estrutura organizada em classes para gerenciar o tabuleiro, espaços individuais e a lógica do jogo.
 
 ### Funcionalidades
