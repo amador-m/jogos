@@ -16,7 +16,7 @@ Este projeto é uma implementação do jogo Sudoku em Java, utilizando uma estru
 
 ### Funcionalidades
 - **Gerenciamento do tabuleiro**, com atualização dinâmica das jogadas
-- **Validação dos números inseridos, impedindo modificações em posições fixas
+- **Validação dos números inseridos**, impedindo modificações em posições fixas
 - **Sistema de status do jogo:** "Não iniciado", "Incompleto" e "Completo"
 - **Verificação automática de erros** no tabuleiro
 - **Interface simples via console**, com opções para iniciar, inserir/remover números e exibir o jogo
