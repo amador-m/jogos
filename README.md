@@ -47,6 +47,22 @@ Uma implementação completa do Sudoku em Java, com estrutura orientada a objeto
 
 ---
 
+## 🎭 Jogo da Mímica
+
+Um jogo divertido para animar qualquer grupo! O programa sorteia aleatoriamente uma palavra ou ação, que deve ser representada através de mímica sem usar palavras. Ideal para jogar em equipe e testar a criatividade!
+
+### Funcionalidades:
+- Lista de mímicas variadas (animais, ações, situações, filmes etc.)
+- Sorteio aleatório de mímicas
+- Interface simples via terminal
+
+### Possíveis melhorias:
+- Inclusão de mais categorias (animais, filmes, esportes, profissões…)
+- Modo competitivo com pontuação
+- Integração com interface gráfica
+
+---
+
 ## 📈 Expansão e contribuições
 
 Este repositório está sempre aberto para novos minigames! Se você deseja compartilhar sua criação ou melhorar um dos jogos existentes, fique à vontade para:
